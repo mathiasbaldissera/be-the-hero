@@ -1,4 +1,4 @@
-FROM node:alpine
+FROM node:current-alpine
 
 EXPOSE 3333
 
